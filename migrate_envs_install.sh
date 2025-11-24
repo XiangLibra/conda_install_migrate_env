@@ -24,4 +24,4 @@ for yml_file in "$YML_DIR"/*.yml; do
     fi
 done
 
-echo "--- 所有環境遷移完成！您可以開始測試新環境，然後安全刪除 /home/lab407/anaconda3 ---"
+echo "--- 所有環境遷移完成！您可以開始測試新環境，然後安全刪除 ~/anaconda3 ---"
